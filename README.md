@@ -14,30 +14,31 @@ I live in Asia. Somewhere..
 
 <h2>💬 Languages</h2>
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus" style="transform: scale(1.5); margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <h2>🌐 Web Development</h2>
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" style="transform: scale(1.5); margin: 5px;" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <h2>☁️ Hosting Platforms</h2>
 <p>
-  <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github" style="transform: scale(1.5); margin: 5px;" />
-  <img src="https://img.shields.io/badge/-UptimeRobot-3eaaaf?style=flat-square&logo=uptime-robot" style="transform: scale(1.5); margin: 5px;" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UptimeRobot-3eaaaf?style=for-the-badge&logo=uptime-robot&logoColor=white" />
 </p>
 
 <h2>🗄️ Databases</h2>
 <p>
-  <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite" style="transform: scale(1.5); margin: 5px;" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 <hr>
