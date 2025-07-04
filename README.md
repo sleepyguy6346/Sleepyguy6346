@@ -1,37 +1,55 @@
-# 👋 Hi, I'm Sleepyguy6346!
+<!-- Introduction -->
+<h1>👋 Hi, I'm Sleepyguy6346!</h1>
 
-I'm a beginner coder whos mainly want to learn Javascript, but i'm eager to learn
-python, html, css, java, and c++. Tryna make bots on discord, but its a working progress.
+<p>
+My name is Sleepyguy, real name is <strong>Elieja</strong>. I'm a 15-year-old beginner coder who's mainly trying to learn <strong>JavaScript</strong>, 
+but I'm also eager to learn <strong>Python, HTML, CSS, Java</strong>, and <strong>C++</strong>.  
+Trying to make bots on Discord — it's a work in progress...  
+I live in Asia. Somewhere..
+</p>
 
----
+<hr>
 
-# 🧠 My Brain
+<!-- My Brain Section -->
+<h1>🧠 My Brain</h1>
+<hr>
 
----
+<!-- Languages -->
+<h2>💬 Languages</h2>
 
-## 💬 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus" />
+</p>
 
----
+<!-- Web Dev -->
+<h2>🌐 Web Development</h2>
 
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" />
+</p>
 
----
+<!-- Hosting -->
+<h2>☁️ Hosting Platforms</h2>
 
-## ☁️ Hosting Platforms
-![Render](https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
-![UptimeRobot](https://img.shields.io/badge/-UptimeRobot-3eaaaf?style=flat-square&logo=uptime-robot)
+<p>
+  <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render" />
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-UptimeRobot-3eaaaf?style=flat-square&logo=uptime-robot" />
+</p>
 
----
+<!-- Database -->
+<h2>🗄️ Databases</h2>
 
-## 🗄️ Databases
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite)
+<p>
+  <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite" />
+</p>
+
+<hr>
+
+<p><strong>Ano gawa mo dito? Ha?</strong></p>
